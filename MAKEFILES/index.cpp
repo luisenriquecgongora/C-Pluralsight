@@ -12,5 +12,4 @@ int main()
     a1.Withdraw(50);
     a1.FullReport();
     cout << a1.getBalance() <<endl;
-
 }
